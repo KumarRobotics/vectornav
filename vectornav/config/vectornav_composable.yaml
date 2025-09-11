@@ -1,4 +1,4 @@
-port: "usb-FTDI_TTL232R-3V3_FT9KA1ZC-if00-port0"
+port: "/dev/serial/by-id/usb-FTDI_TTL232R-3V3_FT9KA1ZC-if00-port0"
 #port: "/dev/serial/by-id/usb-FTDI_TTL232R_FTCFLGCP-if00-port0"
 baud: 921600
 adjust_ros_timestamp: True
